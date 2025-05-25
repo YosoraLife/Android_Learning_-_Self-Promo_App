@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Self-Promo App</string>
+    <string name="contact_name">Naam Contactpersoon</string>
+    <string name="contact_number">Telefoonnummer Contactpersoon</string>
+    <string name="my_display_name">Mijn naam</string>
+    <string name="include_junior">\'Junior\' toevoegen?</string>
+    <string name="immediate_start">Direct starten?</string>
+    <string name="available_from_date">Beschikbaar vanaf datum</string>
+    <string name="preview_message">Bekijk bericht</string>
+    <string name="send_message">Verstuur bericht</string>
+</resources>
